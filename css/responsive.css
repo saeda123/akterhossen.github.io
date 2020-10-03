@@ -1,0 +1,447 @@
+@media (min-width: 1200px) {}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .button a {
+        font-size: 20px;
+        padding: 10px 50px;
+    }
+
+    .header2 p {
+        text-align: justify;
+
+
+    }
+    
+       /*================================
+             form page start
+    =================================*/
+    .form_header h1 {
+        font-size: 50px;
+        margin: 60px auto;
+
+
+    }
+
+    #footer_form {
+        padding: 35px;
+        width: 50%;
+        margin: 37px auto;
+
+    }
+
+    /*================================
+               form page end
+    =================================*/
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+
+    /*================================
+             first section start
+       =================================*/
+    .header_part {
+        padding: 40px 20px;
+    }
+
+    .header_part h1 {
+        font-size: 40px;
+    }
+
+    .header_part h3 {
+        font-size: 30px;
+    }
+
+    .header_part p {
+        font-size: 20px;
+        padding: 0 30px;
+    }
+
+    .header_part span {
+        font-size: 20px;
+    }
+
+    .button a {
+        font-size: 20px;
+        padding: 10px 20px;
+    }
+
+    .button {
+        margin-top: 30px;
+    }
+
+    /*================================
+                first section end
+       =================================*/
+    /*================================
+               second section start
+        =================================*/
+    .header2 {
+        padding: 30px 20px;
+    }
+
+    .header2 h1 {
+        font-size: 40px;
+        padding-bottom: 25px;
+    }
+
+    .header2 p {
+        text-align: justify;
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+    .header2 h3 span a {
+        font-size: 20px;
+    }
+
+    .header2 h3 {
+        font-size: 20px;
+    }
+
+    .header2 h5 {
+        font-size: 20px;
+    }
+
+    /*================================
+               second section end
+       =================================*/
+    /*================================
+              third section start
+       =================================*/
+    .text ul {
+        padding: 22px 14px;
+    }
+
+    .text ul li {
+        padding-left: 24px;
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding-bottom: 11px;
+    }
+
+    .text ul li i {
+        font-size: 22px;
+        left: 0;
+        top: 0px;
+    }
+
+    /*================================
+               third section end
+    =================================*/
+    /*================================
+               fourth section start
+    =================================*/
+    .footer_text ul li {
+        font-size: 20px;
+        margin-bottom: 15px;
+        padding: 10px 0 10px 30px;
+    }
+
+    .footer_text ul li i {
+        font-size: 20px;
+        left: 5px;
+        top: 12px;
+    }
+
+    .button h3 {
+        font-size: 30px;
+    }
+
+    /*================================
+               fourth section end
+    =================================*/
+    
+    /*================================
+             form page start
+    =================================*/
+    .form_header h1 {
+        font-size: 40px;
+        margin: 60px auto;
+
+
+    }
+
+    #footer_form {
+        padding: 35px;
+        width: 70%;
+        margin: 37px auto;
+
+    }
+
+    /*================================
+               form page end
+    =================================*/
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    /*================================
+             first section start
+       =================================*/
+    .header_part {
+        padding: 30px 20px;
+    }
+
+    .header_part h1 {
+        font-size: 36px;
+    }
+
+    .header_part h3 {
+        font-size: 28px;
+    }
+
+    .header_part p {
+        font-size: 18px;
+        padding: 0 0px;
+    }
+
+    .header_part span {
+        font-size: 20px;
+    }
+
+    .button a {
+        font-size: 18px;
+        padding: 10px 20px;
+    }
+
+    .button {
+        margin-top: 30px;
+    }
+
+    /*================================
+                first section end
+       =================================*/
+    /*================================
+               second section start
+        =================================*/
+    .header2 {
+        padding: 30px 20px;
+    }
+
+    .header2 h1 {
+        font-size: 36px;
+        padding-bottom: 25px;
+    }
+
+    .header2 p {
+        text-align: justify;
+        font-size: 18px;
+        margin-top: 20px;
+    }
+
+    .header2 h3 span a {
+        font-size: 19px;
+    }
+
+    .header2 h3 {
+        font-size: 18px;
+    }
+
+    .header2 h5 {
+        font-size: 18px;
+    }
+
+    /*================================
+               second section end
+       =================================*/
+    /*================================
+              third section start
+       =================================*/
+    .text ul {
+        padding: 19px 10px;
+    }
+
+    .text ul li {
+        padding-left: 24px;
+        font-size: 18px;
+        margin-bottom: 15px;
+        padding-bottom: 11px;
+    }
+
+    .text ul li i {
+        font-size: 21px;
+        left: 0;
+    }
+
+    /*================================
+               third section end
+    =================================*/
+    /*================================
+               fourth section start
+    =================================*/
+    .footer_text ul li {
+        font-size: 18px;
+        margin-bottom: 15px;
+        padding: 10px 0 10px 30px;
+    }
+
+    .footer_text ul li i {
+        font-size: 19px;
+        left: 5px;
+        top: 15px;
+    }
+
+    .button h3 {
+        font-size: 30px;
+    }
+
+
+    /*================================
+               fourth section end
+    =================================*/
+
+    /*================================
+             form page start
+    =================================*/
+    .form_header h1 {
+        font-size: 36px;
+        margin: 60px auto;
+
+
+    }
+
+    #footer_form {
+        padding: 30px;
+        width: 95%;
+        margin: 37px auto;
+
+    }
+
+    /*================================
+               form page end
+    =================================*/
+}
+
+@media (max-width: 575px) {
+
+    /*================================
+             first section start
+       =================================*/
+    .header_part {
+        padding: 30px 20px;
+    }
+
+    .header_part h1 {
+        font-size: 33px;
+    }
+
+    .header_part h3 {
+        font-size: 26px;
+    }
+
+    .header_part p {
+        font-size: 18px;
+        padding: 0 0px;
+    }
+
+    .header_part span {
+        font-size: 20px;
+    }
+
+    .button a {
+        font-size: 14px;
+        padding: 10px 15px;
+    }
+
+    .button {
+        margin-top: 30px;
+    }
+
+    /*================================
+                first section end
+       =================================*/
+    /*================================
+               second section start
+        =================================*/
+    .header2 {
+        padding: 20px;
+    }
+
+    .header2 h1 {
+        font-size: 33px;
+        padding-bottom: 25px;
+    }
+
+    .header2 p {
+        text-align: justify;
+        font-size: 17px;
+        margin-top: 20px;
+    }
+
+    .header2 h3 span a {
+        font-size: 18px;
+    }
+
+    .header2 h3 {
+        font-size: 17px;
+    }
+
+    .header2 h5 {
+        font-size: 16px;
+    }
+
+    /*================================
+               second section end
+       =================================*/
+    /*================================
+              third section start
+       =================================*/
+    .text ul {
+        padding: 19px 10px;
+    }
+
+    .text ul li {
+        padding-left: 24px;
+        font-size: 17px;
+        margin-bottom: 15px;
+        padding-bottom: 11px;
+    }
+
+    .text ul li i {
+        font-size: 20px;
+        left: 0;
+    }
+
+    /*================================
+               third section end
+    =================================*/
+    /*================================
+               fourth section start
+    =================================*/
+    .footer_text ul li {
+        font-size: 17px;
+        margin-bottom: 15px;
+        padding: 10px 0 10px 30px;
+    }
+
+    .footer_text ul li i {
+        font-size: 15px;
+        left: 5px;
+        top: 18px;
+    }
+
+    /*================================
+               fourth section end
+    =================================*/
+    /*================================
+               form page start
+    =================================*/
+    .form_header h1 {
+        font-size: 33px;
+        margin: 60px auto;
+
+
+    }
+
+    #footer_form {
+        padding: 20px;
+        width: 90%;
+        margin: 37px auto;
+
+    }
+
+    /*================================
+               form page end
+    =================================*/
+}
